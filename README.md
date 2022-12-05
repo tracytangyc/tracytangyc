@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/tracytangyc">
-  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=tracytangyc&show_icons=true&count_private=true&theme=buefy" />
-</a>
+![Tracy Tang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tracytangyc&show_icons=true&count_private=true&theme=transparent)
+
 <!-- top-lang cannot count private repos -->
 <!-- <a href="https://github.com/tracytangyc">
   <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tracytangyc&langs_count=6&layout=compact&theme=buefy" />
