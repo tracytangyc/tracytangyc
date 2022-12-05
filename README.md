@@ -21,5 +21,5 @@ Here are some ideas to get you started:
   <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=tracytangyc&show_icons=true&count_private=true&theme=buefy" />
 </a>
 <a href="https://github.com/tracytangyc">
-  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tracytangyc&langs_count=6&layout=compact&theme=buefy" />
+  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tracytangyc&langs_count=6&exclude_repo=['tracytangyc.github.io']&layout=compact&theme=buefy" />
 </a>
